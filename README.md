@@ -1,5 +1,5 @@
 # salvar-ler-apagar-local-storage
-
+```
 
         function salvar_local(chave,valor_que_vamos_guardar){
         try {
@@ -25,3 +25,4 @@
             console.log(`erro ao apagar o valor da chave ${chave} : ${error}`)
         } 
     }
+```
